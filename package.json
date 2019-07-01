@@ -1,6 +1,6 @@
 {
   "name": "vault-door",
-  "version": "0.1.32",
+  "version": "0.1.37",
   "description": "API to access to vault for generation secrets with one command in format key=secret.",
   "main": "./bin/manual.js",
   "bin": {
